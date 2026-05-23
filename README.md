@@ -15,6 +15,3 @@ https://tomsekord.github.io/my-text-app
 - HTML
 - CSS
 - JavaScript
-
-## How to run locally
-Open `index.html` in any browser.
